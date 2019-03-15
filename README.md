@@ -27,7 +27,7 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
     - Labelled FOR Loop 
 6. Exploring Functions or Methods 
     - Declaring functions 
-    - Function Expressions: Short hand syntax or using FAT ARROR 
+    - Function Expressions: Short hand syntax or using FAT ARROW 
     - Optional Positional Parameters 
     - Optional Named Parameters 
     - Optional Default Parameters 
